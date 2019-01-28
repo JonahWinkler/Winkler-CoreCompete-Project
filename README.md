@@ -1,0 +1,1 @@
+# Winkler CoreCompete Project
